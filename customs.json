@@ -1,0 +1,14 @@
+{
+    "elements": {
+        "th:block": {}
+    },
+    "attributes": {
+        "th:text": {},
+        "th:src": {},
+        "th:remove": {},
+        "th:replace": {},
+        "th:href": {},
+        "th:fragment": {},
+        "th:class": {}
+    }
+}
